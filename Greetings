@@ -1,0 +1,6 @@
+#python simple program
+greetings = ['Hello', 'Hi', 'Good morning']
+print(greeting)
+new_greeting = input('Added your greeting: ')
+print(new_greeting)
+greetings.append(new_greeting)
