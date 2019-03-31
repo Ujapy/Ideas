@@ -1,0 +1,4 @@
+#python simple program
+greetings = ['Hello', 'Hi', 'Good morning']
+print(greeting)
+
